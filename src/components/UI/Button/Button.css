@@ -1,0 +1,16 @@
+.Button {
+    margin: 10px;
+    padding: 5px;
+}
+
+.Button:hover {
+    transform: scale(1.1);
+}
+
+.Accept {
+    background: lawngreen;
+}
+
+.Cancel {
+    background: red;
+}
